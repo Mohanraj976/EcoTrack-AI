@@ -1,0 +1,16 @@
+
+activity_type,unit,factor_kg_co2,description
+car_petrol,km,0.21,Petrol car per km
+car_diesel,km,0.18,Diesel car per km
+motorbike,km,0.11,Motorbike per km
+bus,km,0.089,Bus per passenger km
+train,km,0.041,Train per passenger km
+electricity,kWh,0.82,Grid electricity (India avg)
+flight_domestic,km,0.255,Domestic flight per passenger km
+flight_international,km,0.195,International flight per passenger km
+beef,kg,27.0,Beef production per kg
+chicken,kg,6.9,Chicken production per kg
+pork,kg,12.1,Pork production per kg
+fish,kg,6.1,Fish production per kg
+vegetables,kg,2.0,Vegetable production per kg
+dairy,kg,3.2,Dairy production per kg
